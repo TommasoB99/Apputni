@@ -1,0 +1,4 @@
+run = "cowsay hello word"
+
+[nix]
+channel = "stable-22_11"
